@@ -1,0 +1,18 @@
+img {
+	width: 300px;
+}
+#card {
+	width: 320px;
+	border: 2px solid black;
+	box-shadow: 5px 5px grey;
+}
+h1, p, img, ul {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.italics {
+	font-style: italic;
+}
+ul {
+	list-style-type: none;
+}
